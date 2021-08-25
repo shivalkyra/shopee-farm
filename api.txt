@@ -1,0 +1,1 @@
+https://games.shopee.vn/farm/api/orchard/crop/meta/get
